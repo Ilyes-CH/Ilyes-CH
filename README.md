@@ -1,6 +1,9 @@
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1000&color=15FF4C&center=true&random=false&width=435&lines=Hi+I+am+Ilyes+Chaabane!;I'm+a+Software+Developer+" alt="Typing SVG" /></a>
 <h3 align="center">A Certified Full Stack developer from Tunisia</h3>
-<img  alt="Me Coding GIF" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+
+<img  alt="Me Coding GIF" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 - 🔭 I’m currently working on **mini compiler using GO**
 
 - 📫 How to reach me **ilyeschaaabane216@gmail.com**
