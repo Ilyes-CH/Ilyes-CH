@@ -1,5 +1,5 @@
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1000&color=15FF4C&center=true&random=false&width=435&lines=Hi+I+am+Ilyes+Chaabane!;I'm+a+Software+Developer+" alt="Typing SVG" /></a>
-<h3 align="center">A Certified Full Stack developer from Tunisia</h3>
+<h3 align="start">A Certified Full Stack developer from Tunisia</h3>
 
 
 <img  alt="Me Coding GIF" width="400" style="display:flex;justify-content:center;align-items:center;" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
