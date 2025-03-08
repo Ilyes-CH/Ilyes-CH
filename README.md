@@ -2,7 +2,7 @@
 <h3 align="center">A Certified Full Stack developer from Tunisia</h3>
 
 
-<img  alt="Me Coding GIF" width="400" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
+<img  alt="Me Coding GIF" width="400" style="display:flex;justify-content:center;align-items:center;" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif">
 
 - 🔭 I’m currently working on **mini compiler using GO**
 
